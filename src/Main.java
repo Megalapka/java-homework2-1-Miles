@@ -6,8 +6,8 @@
 public class Main {
     public static void main(String[] args) {
         int cost = 1019;
-        int rubsForMile=20;
-        int bonus = cost/rubsForMile;
-        System.out.println(bonus +" бонус(ов) за купленный билет");
+        int rubsForMile = 20;
+        int bonus = cost / rubsForMile;
+        System.out.println(bonus + " бонус(ов) за купленный билет");
     }
 }
